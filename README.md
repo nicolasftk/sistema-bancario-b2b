@@ -69,7 +69,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Desenvolvedor
 
-Este projeto foi desenvolvido por Nicholas Fortunato omo parte de um projeto do curso de Desenvolvimento de Software Back-End da Cubos Academy.
+Este projeto foi desenvolvido por Nicholas Fortunato como parte de um projeto do curso de Desenvolvimento de Software Back-End da Cubos Academy.
 
 ## Licença
 
