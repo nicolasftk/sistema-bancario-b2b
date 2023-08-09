@@ -1,4 +1,4 @@
-# Sistema Bancário B2B - README
+# Sistema Bancário - README
 
 Este é um projeto de sistema bancário desenvolvido como parte de um projeto do curso de Desenvolvimento de Software Back-End da Cubos Academy. O sistema permite a criação de contas, exclusão de contas, realização de depósitos, saques e transferências entre contas.
 
